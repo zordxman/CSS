@@ -1,0 +1,24 @@
+#first{
+    height: 200px;
+    border-radius:50px ;
+    transform: rotate(20deg);
+    transform: skewy(20deg);
+
+}
+
+#second{
+    height: 200px;
+    border-radius: 50%;
+     transition:filter 0.5s ease;
+}
+#third{
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    filter: blur(2px);
+ 
+}
+
+#second:hover {
+  filter: blur(5px);
+}

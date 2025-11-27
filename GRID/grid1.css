@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: 100px 200px 100px;
+    grid-template-rows: 100px 100px;
+    gap: 10px;
+    border: 2px black solid;
+    padding: 10px;
+}
+.box{
+    background-color: rgb(231, 123, 123);
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    grid-column: span 2;
+}
+.box3{
+    grid-row:span 2 ;
+}
+

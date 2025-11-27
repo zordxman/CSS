@@ -1,0 +1,26 @@
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 1px,black,solid;
+}
+#box1{
+    background-size: cover;
+    background-image: url("b1_photo.jpg");
+}
+#box2{
+      background-size: cover;
+    background-image: url("b2_photo.jpg");
+}
+#box3{
+    background-size: cover;
+    background-image: url("b3_photo.jpg");
+}
+#box4{
+    background-size: contain;
+    background-image: url("b3_photo.jpg");
+}
+  
+
+   

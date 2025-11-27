@@ -1,0 +1,23 @@
+
+p{
+    color: rgb(15, 15, 15);
+}
+button{
+    background-color: rgb(240, 140, 140);
+}
+body{
+    background-color: rgb(254, 243, 249);
+}
+#h1{
+    background-color: rgb(236, 7, 106);
+    color: white;
+}
+#h2{
+    background-color: burlywood;
+}
+#h3{
+  background-color: rgb(241, 105, 14);
+}
+.class1{
+    color: chartreuse;
+}

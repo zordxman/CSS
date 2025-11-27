@@ -1,0 +1,25 @@
+div{
+    background-color: pink;
+    /* display: inline;  */
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding:25px;
+    display: inline-block;
+    border-width: 2 px;
+    border-style:solid;
+    border-color: black;
+}
+button{
+    background-color: yellow;
+}
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: yellow;
+    visibility: hidden;
+}
+#box3{
+    background-color: greenyellow;
+}

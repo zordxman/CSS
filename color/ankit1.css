@@ -1,0 +1,20 @@
+/* #box{
+    background-color:blue;
+    color: black;
+
+     
+}
+.heading{
+    color: red; */
+/* }  */
+div{
+    margin: 0px;
+    height: 200px;
+    /* background-image:linear-gradient(to right,green,yellow,pink,orange); */
+        /* background-image:linear-gradient( to right,rgba(255,0,0,0),rgba(255,0,0));     */
+
+         background-image:radial-gradient(yellow,pink);    
+
+
+
+}

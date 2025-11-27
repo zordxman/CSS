@@ -1,0 +1,13 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+#box1{
+    background-size: cover;
+    background-image: url("b3_photo.jpg");
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    color: rgb(230, 24, 24);
+    border-radius: 20px;
+}

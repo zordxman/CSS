@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+} 
+#box1{
+    background-color: yellow;
+ position: static;
+ top: 70px;
+}
+#box2{
+    background-color: aqua;
+    position: relative;
+    top: 75px;
+    right: 107px;
+
+}
+#box3{ 
+    background-color: rgb(241, 23, 60);
+    position: sticky;
+    top: 0px;
+    left: 2000px;
+
+}
+/* through fix position we make the navbar */
+#box4{
+    color: white;
+    width: 5000px;
+    height: 80px;
+    background-color: rgb(40, 38, 39);   
+    position: fixed;
+    left: 0px;
+    top: 0px;
+ }

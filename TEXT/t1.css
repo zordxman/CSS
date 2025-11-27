@@ -1,0 +1,15 @@
+/* search mdn text decoration for any help */
+
+p{
+    text-align: center;
+}
+#p1{
+  text-decoration:line-through;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#h1{
+    font-weight: lighter;
+}
